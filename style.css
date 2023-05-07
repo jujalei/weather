@@ -2,6 +2,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-family: 'Poppins', sans-serif;
   color: azure;
+
+  background-color: #f4f992;
 }
 
 .select {
@@ -20,7 +22,7 @@ body {
 }
 
 .wrapper {
-  background-color: #04764abf;
+  background-color: #598eff;
   width: 50%;
 
   margin-left: auto;
