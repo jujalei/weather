@@ -4,12 +4,15 @@ body {
   color: azure;
 
   background-color: #f4f992;
+
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .select {
   display: block;
 
-  width: 50%;
+  width: 60%;
 
   margin-left: auto;
   margin-right: auto;
@@ -25,7 +28,7 @@ body {
 
 .wrapper {
   background-color: #598eff;
-  width: 50%;
+  max-width: 800px;
 
   margin-left: auto;
   margin-right: auto;
